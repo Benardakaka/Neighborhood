@@ -10,7 +10,7 @@ class ProfileTestClass(TestCase):
 
     def setUp(self):
         
-        self.new_profile = Profile(user_id=2,hood_id=3,bio="just testing", email='patriciaanduru@gmail.com',name="Patricia",profile_pic="default.jpeg")
+        self.new_profile = Profile(user_id=2,hood_id=3,bio="just testing", email='patriciaanduru@gmail.com',name="Benard",profile_pic="default.jpeg")
 
   
     # Testing  instance
