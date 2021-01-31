@@ -8,7 +8,7 @@
 This is a neigbhourhood Application that contain nyumba kumi and government policing in knowing your your neighbour. In order to join a hood you must sign up then login to be a member of a hood. 
 
 ##  Live Link  
- Click [View Site](https://hoodiewatch.herokuapp.com/)  to visit the site
+ Click [View Site](https://stark-fjord-18085.herokuapp.com/)  to visit the site
 
 
 ## User Story  
